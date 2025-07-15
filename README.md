@@ -1,1 +1,1 @@
-# UIU-DS---1115
+# 📚 UIU-DS-1115 — This repository contains all my study materials for the DS-1115 course at United International University. Here you’ll find lecture PDFs, assignments, solutions, and Python code related to data science basics and final projects.
